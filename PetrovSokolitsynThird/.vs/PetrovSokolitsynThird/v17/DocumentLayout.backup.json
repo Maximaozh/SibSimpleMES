@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\MES\\Libs\\Ordering\\PetrovSokolitsynThird\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D097BB-996F-4E48-8D62-69DED7BC5995}|PetrovSokolitsynThird\\PetrovSokolitsynThird.csproj|d:\\projects\\mes\\libs\\ordering\\petrovsokolitsynthird\\petrovsokolitsynthird\\petrovsokolitsynorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D097BB-996F-4E48-8D62-69DED7BC5995}|PetrovSokolitsynThird\\PetrovSokolitsynThird.csproj|solutionrelative:petrovsokolitsynthird\\petrovsokolitsynorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PetrovSokolitsynOrder.cs",
+              "DocumentMoniker": "D:\\Projects\\MES\\Libs\\Ordering\\PetrovSokolitsynThird\\PetrovSokolitsynThird\\PetrovSokolitsynOrder.cs",
+              "RelativeDocumentMoniker": "PetrovSokolitsynThird\\PetrovSokolitsynOrder.cs",
+              "ToolTip": "D:\\Projects\\MES\\Libs\\Ordering\\PetrovSokolitsynThird\\PetrovSokolitsynThird\\PetrovSokolitsynOrder.cs",
+              "RelativeToolTip": "PetrovSokolitsynThird\\PetrovSokolitsynOrder.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAA9wIYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T21:08:33.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+﻿<Window x:Class="SibOrder.Diagramm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SibOrder"
+        mc:Ignorable="d"
+        Background="{DynamicResource RegionBrush}"
+        Title="Diagramm" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50pt"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="50pt" />
+                <ColumnDefinition Width="50pt" />
+                <ColumnDefinition Width="50pt" />
+                <ColumnDefinition Width="50pt" />
+                <ColumnDefinition Width="100pt" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+                <Button Grid.Column="0"  x:Name="ScalePlusX" Click="ScalePlusX_Click">+X</Button>
+                <Button Grid.Column="1"  x:Name="ScaleMinusX" Click="ScaleMinusX_Click">-X</Button>
+                <Button Grid.Column="2"  x:Name="ScalePlusY" Click="ScalePlusY_Click">+Y</Button>
+                <Button Grid.Column="3"  x:Name="ScaleMinusY" Click="ScaleMinusY_Click">-Y</Button>
+                <Button Grid.Column="4"  x:Name="SaveButton" Click="SaveButton_Click" >Сохранить</Button>
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <ScrollViewer Name="GanttScrollviewer" VerticalScrollBarVisibility="Visible" HorizontalScrollBarVisibility="Visible">
+                <Canvas Name="GanttCanvas" MouseRightButtonDown="GanttCanvas_MouseRightButtonDown"/>
+            </ScrollViewer>
+        </Grid>
+        
+    </Grid>
+</Window>

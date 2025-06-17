@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\MES\\ExcelProductionLoader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{324EECF8-3089-4B58-A2F8-7FF2779380D5}|ExcelProductionLoader\\ExcelProductionLoader.csproj|d:\\projects\\mes\\excelproductionloader\\excelproductionloader\\excelproductiondataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324EECF8-3089-4B58-A2F8-7FF2779380D5}|ExcelProductionLoader\\ExcelProductionLoader.csproj|solutionrelative:excelproductionloader\\excelproductiondataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ExcelProductionLoader||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExcelProductionLoader",
+              "DocumentMoniker": "D:\\Projects\\MES\\ExcelProductionLoader\\ExcelProductionLoader\\ExcelProductionLoader.csproj",
+              "RelativeDocumentMoniker": "ExcelProductionLoader\\ExcelProductionLoader.csproj",
+              "ToolTip": "D:\\Projects\\MES\\ExcelProductionLoader\\ExcelProductionLoader\\ExcelProductionLoader.csproj",
+              "RelativeToolTip": "ExcelProductionLoader\\ExcelProductionLoader.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-15T22:43:41.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExcelProductionDataProvider.cs",
+              "DocumentMoniker": "D:\\Projects\\MES\\ExcelProductionLoader\\ExcelProductionLoader\\ExcelProductionDataProvider.cs",
+              "RelativeDocumentMoniker": "ExcelProductionLoader\\ExcelProductionDataProvider.cs",
+              "ToolTip": "D:\\Projects\\MES\\ExcelProductionLoader\\ExcelProductionLoader\\ExcelProductionDataProvider.cs",
+              "RelativeToolTip": "ExcelProductionLoader\\ExcelProductionDataProvider.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T21:43:35.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

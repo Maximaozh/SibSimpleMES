@@ -1,0 +1,54 @@
+﻿<Window x:Class="SibOrder.AlgorithmComparisonWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+        Title="Сравнение алгоритмов" 
+        Height="600" 
+        Width="800"
+        WindowStartupLocation="CenterOwner">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TabControl Grid.Row="0">
+            <TabItem Header="Диаграмма">
+                <lvc:CartesianChart Name="Chart" Series="{Binding ChartSeries}" LegendLocation="Right" MouseRightButtonDown="Chart_MouseRightButtonDown">
+                    <lvc:CartesianChart.AxisX>
+                        <lvc:Axis Labels="{Binding AlgorithmNames}" 
+                                 Title="Алгоритмы"/>
+                    </lvc:CartesianChart.AxisX>
+
+                    <lvc:CartesianChart.AxisY>
+                        <!-- Основная ось Y (слева) -->
+                        <lvc:Axis LabelFormatter="{Binding Formatter}" 
+                                 Title="Время (сек)"/>
+
+                        <!-- Вторая ось Y (справа) -->
+                        <lvc:Axis LabelFormatter="{Binding Formatter}" 
+                                 Title="Загрузка (%)"
+                                 Position="RightTop"/>
+                    </lvc:CartesianChart.AxisY>
+                </lvc:CartesianChart>
+            </TabItem>
+
+            <TabItem Header="Таблица">
+                <DataGrid ItemsSource="{Binding Results}" 
+                        AutoGenerateColumns="False"
+                        Margin="5">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Алгоритм" Binding="{Binding AlgorithmName}"/>
+                        <DataGridTextColumn Header="Общее время" 
+                                         Binding="{Binding TotalTime, StringFormat={}{0:N0} сек}"/>
+                        <DataGridTextColumn Header="Простой" 
+                                         Binding="{Binding TotalIdleTime, StringFormat={}{0:N0} сек}"/>
+                        <DataGridTextColumn Header="Загрузка" 
+                                         Binding="{Binding AvgUtilization, StringFormat={}{0:N1}%}"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>

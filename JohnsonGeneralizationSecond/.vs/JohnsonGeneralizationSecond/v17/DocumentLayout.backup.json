@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\MES\\Libs\\Ordering\\JohnsonGeneralizationSecond\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BEF6B70-35C0-4BC1-81AF-A26E2C27F6DF}|JohnsonGeneralizationSecond\\JohnsonGeneralizationSecond.csproj|d:\\projects\\mes\\libs\\ordering\\johnsongeneralizationsecond\\johnsongeneralizationsecond\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BEF6B70-35C0-4BC1-81AF-A26E2C27F6DF}|JohnsonGeneralizationSecond\\JohnsonGeneralizationSecond.csproj|solutionrelative:johnsongeneralizationsecond\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Projects\\MES\\Libs\\Ordering\\JohnsonGeneralizationSecond\\JohnsonGeneralizationSecond\\Class1.cs",
+              "RelativeDocumentMoniker": "JohnsonGeneralizationSecond\\Class1.cs",
+              "ToolTip": "D:\\Projects\\MES\\Libs\\Ordering\\JohnsonGeneralizationSecond\\JohnsonGeneralizationSecond\\Class1.cs",
+              "RelativeToolTip": "JohnsonGeneralizationSecond\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T20:41:43.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

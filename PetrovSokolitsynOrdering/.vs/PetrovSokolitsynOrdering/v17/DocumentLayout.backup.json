@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\MES\\PetrovSokolitsynOrdering\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D75F2EA6-A8DC-4528-A711-CB82965FF3AF}|PetrovSokolitsynOrdering\\PetrovSokolitsynOrdering.csproj|d:\\projects\\mes\\petrovsokolitsynordering\\petrovsokolitsynordering\\petrovsokolitsynorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75F2EA6-A8DC-4528-A711-CB82965FF3AF}|PetrovSokolitsynOrdering\\PetrovSokolitsynOrdering.csproj|solutionrelative:petrovsokolitsynordering\\petrovsokolitsynorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PetrovSokolitsynOrder.cs",
+              "DocumentMoniker": "D:\\Projects\\MES\\PetrovSokolitsynOrdering\\PetrovSokolitsynOrdering\\PetrovSokolitsynOrder.cs",
+              "RelativeDocumentMoniker": "PetrovSokolitsynOrdering\\PetrovSokolitsynOrder.cs",
+              "ToolTip": "D:\\Projects\\MES\\PetrovSokolitsynOrdering\\PetrovSokolitsynOrdering\\PetrovSokolitsynOrder.cs",
+              "RelativeToolTip": "PetrovSokolitsynOrdering\\PetrovSokolitsynOrder.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAswI8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T23:52:21.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

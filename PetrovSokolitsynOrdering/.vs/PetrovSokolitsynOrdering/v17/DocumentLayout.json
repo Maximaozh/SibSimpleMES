@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u043A\u043E\u0434\u044B\\PetrovSokolitsynOrdering\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D75F2EA6-A8DC-4528-A711-CB82965FF3AF}|PetrovSokolitsynOrdering\\PetrovSokolitsynOrdering.csproj|d:\\\u0438\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u043A\u043E\u0434\u044B\\petrovsokolitsynordering\\petrovsokolitsynordering\\petrovsokolitsynorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75F2EA6-A8DC-4528-A711-CB82965FF3AF}|PetrovSokolitsynOrdering\\PetrovSokolitsynOrdering.csproj|solutionrelative:petrovsokolitsynordering\\petrovsokolitsynorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PetrovSokolitsynOrder.cs",
+              "DocumentMoniker": "D:\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u043A\u043E\u0434\u044B\\PetrovSokolitsynOrdering\\PetrovSokolitsynOrdering\\PetrovSokolitsynOrder.cs",
+              "RelativeDocumentMoniker": "PetrovSokolitsynOrdering\\PetrovSokolitsynOrder.cs",
+              "ToolTip": "D:\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u043A\u043E\u0434\u044B\\PetrovSokolitsynOrdering\\PetrovSokolitsynOrdering\\PetrovSokolitsynOrder.cs",
+              "RelativeToolTip": "PetrovSokolitsynOrdering\\PetrovSokolitsynOrder.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAAI8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T23:52:21.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
